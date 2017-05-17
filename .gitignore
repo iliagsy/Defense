@@ -1,0 +1,12 @@
+*.aux
+*.pdf
+*.nav
+*.out
+*.snm
+*.log
+*.gz
+*.toc
+
+.DS_Store
+
+/beamer_example
